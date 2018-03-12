@@ -1,0 +1,10 @@
+D:\DEV\GitHub\GK_02\GK_02\bin\Debug\GK_02.exe.config
+D:\DEV\GitHub\GK_02\GK_02\bin\Debug\GK_02.exe
+D:\DEV\GitHub\GK_02\GK_02\bin\Debug\GK_02.pdb
+D:\DEV\GitHub\GK_02\GK_02\obj\Debug\GK_02.csprojResolveAssemblyReference.cache
+D:\DEV\GitHub\GK_02\GK_02\obj\Debug\GK_02.Form1.resources
+D:\DEV\GitHub\GK_02\GK_02\obj\Debug\GK_02.Properties.Resources.resources
+D:\DEV\GitHub\GK_02\GK_02\obj\Debug\GK_02.csproj.GenerateResource.Cache
+D:\DEV\GitHub\GK_02\GK_02\obj\Debug\GK_02.csproj.CoreCompileInputs.cache
+D:\DEV\GitHub\GK_02\GK_02\obj\Debug\GK_02.exe
+D:\DEV\GitHub\GK_02\GK_02\obj\Debug\GK_02.pdb
